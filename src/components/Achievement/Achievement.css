@@ -1,0 +1,137 @@
+.achievement {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2rem 1.5rem;
+}
+
+.achievement-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 900px;
+    width: 100%;
+    gap: 0.75rem;
+}
+
+.achievement-body h1 {
+    font-family: var(--primaryFont);
+    font-size: 3rem;
+    margin: 0;
+}
+
+.achievement-body h4 {
+    font-size: 1.3rem;
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+    margin: 0;
+}
+
+.achievement-cards {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 1.25rem;
+}
+
+.achievement-card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 1.25rem;
+    border-radius: 18px;
+    transition: background-color 200ms ease-in-out;
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 160px;
+}
+
+.achievecard-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+    gap: 0.75rem;
+}
+
+.achievecard-details2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.75rem;
+    font-family: var(--primaryFont);
+    font-size: 16px;
+    position: relative;
+}
+
+.achievecard-details2 h5 {
+   margin: 0;
+}
+
+.achievecard-field {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 6px;
+}
+
+.achievecard-details1 h2 {
+    font-family: var(--primaryFont);
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 125%;
+    margin: 0;
+}
+
+.achievecard-details1 p {
+    font-size: 1rem;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    margin: 0;
+}
+
+.achievecard-imgcontainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5rem;
+}
+
+.achievecard-imgcontainer > img {
+    width: 120px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 992px) {
+    .achievement {
+        padding: 1.5rem;
+    }
+
+    .achievement-body h1 {
+        font-size: 2.5rem;
+    }
+
+    .achievement-body h4 {
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .achievement {
+        padding: 1.2rem;
+    }
+
+    .achievement-body h1 {
+        font-size: 2.2rem;
+    }
+
+    .achievement-body h4 {
+        font-size: 1.05rem;
+    }
+}
