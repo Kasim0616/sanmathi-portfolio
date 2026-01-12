@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sanmathi-portfolio/static/css/main.d9ee24a5.chunk.css",
-    "main.js": "/sanmathi-portfolio/static/js/main.f9a80cb0.chunk.js",
-    "main.js.map": "/sanmathi-portfolio/static/js/main.f9a80cb0.chunk.js.map",
+    "main.js": "/sanmathi-portfolio/static/js/main.c1d6de5e.chunk.js",
+    "main.js.map": "/sanmathi-portfolio/static/js/main.c1d6de5e.chunk.js.map",
     "runtime-main.js": "/sanmathi-portfolio/static/js/runtime-main.6409a085.js",
     "runtime-main.js.map": "/sanmathi-portfolio/static/js/runtime-main.6409a085.js.map",
     "static/css/2.705ea02a.chunk.css": "/sanmathi-portfolio/static/css/2.705ea02a.chunk.css",
@@ -57,7 +57,6 @@
     "static/media/eduPurple.0d11a0cf.svg": "/sanmathi-portfolio/static/media/eduPurple.0d11a0cf.svg",
     "static/media/eduRed.55e01742.svg": "/sanmathi-portfolio/static/media/eduRed.55e01742.svg",
     "static/media/eduYellow.6b8f8b23.svg": "/sanmathi-portfolio/static/media/eduYellow.6b8f8b23.svg",
-    "static/media/eight.98202b95.svg": "/sanmathi-portfolio/static/media/eight.98202b95.svg",
     "static/media/expBlack.777d4bba.svg": "/sanmathi-portfolio/static/media/expBlack.777d4bba.svg",
     "static/media/expBlue.159c6388.svg": "/sanmathi-portfolio/static/media/expBlue.159c6388.svg",
     "static/media/expGreen.dffa1cc6.svg": "/sanmathi-portfolio/static/media/expGreen.dffa1cc6.svg",
@@ -122,10 +121,8 @@
     "static/media/redTheme-boy.846d9d39.svg": "/sanmathi-portfolio/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/sanmathi-portfolio/static/media/redTheme-girl.1ebbd52c.svg",
     "static/media/ruby.34e792ab.svg": "/sanmathi-portfolio/static/media/ruby.34e792ab.svg",
-    "static/media/san resume.2ca11cb3.pdf": "/sanmathi-portfolio/static/media/san resume.2ca11cb3.pdf",
+    "static/media/san resume.13b29706.pdf": "/sanmathi-portfolio/static/media/san resume.13b29706.pdf",
     "static/media/selenium.7dcf1c14.svg": "/sanmathi-portfolio/static/media/selenium.7dcf1c14.svg",
-    "static/media/seven.3168c0a5.svg": "/sanmathi-portfolio/static/media/seven.3168c0a5.svg",
-    "static/media/six.bd765919.svg": "/sanmathi-portfolio/static/media/six.bd765919.svg",
     "static/media/sketch.87c83552.svg": "/sanmathi-portfolio/static/media/sketch.87c83552.svg",
     "static/media/slick-theme.css": "/sanmathi-portfolio/static/media/slick.c94f7671.ttf",
     "static/media/strapi.ac0a6e67.svg": "/sanmathi-portfolio/static/media/strapi.ac0a6e67.svg",
@@ -151,6 +148,6 @@
     "static/css/2.705ea02a.chunk.css",
     "static/js/2.f59c16aa.chunk.js",
     "static/css/main.d9ee24a5.chunk.css",
-    "static/js/main.f9a80cb0.chunk.js"
+    "static/js/main.c1d6de5e.chunk.js"
   ]
 }
