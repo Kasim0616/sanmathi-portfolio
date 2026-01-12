@@ -2,6 +2,7 @@
   "name": "developer-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Kasim0616.github.io/sanmathi-portfolio",
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.11.2",
@@ -25,9 +26,11 @@
   },
   "scripts": {
     "start": "set \"NODE_OPTIONS=--openssl-legacy-provider\" && react-scripts start",
-    "build": "react-scripts build",
+    "build": "set \"NODE_OPTIONS=--openssl-legacy-provider\" && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -46,5 +49,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
