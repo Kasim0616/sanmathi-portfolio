@@ -15,7 +15,6 @@
 .DS_Store
 .env
 src/assets/image/
-src/assets/pdf/
 sanmathi-portfolio/
 .env.local
 .env.development.local
