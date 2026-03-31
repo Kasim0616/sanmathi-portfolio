@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sanmathi-portfolio/static/css/main.d9ee24a5.chunk.css",
-    "main.js": "/sanmathi-portfolio/static/js/main.c1d6de5e.chunk.js",
-    "main.js.map": "/sanmathi-portfolio/static/js/main.c1d6de5e.chunk.js.map",
+    "main.js": "/sanmathi-portfolio/static/js/main.a424ae39.chunk.js",
+    "main.js.map": "/sanmathi-portfolio/static/js/main.a424ae39.chunk.js.map",
     "runtime-main.js": "/sanmathi-portfolio/static/js/runtime-main.6409a085.js",
     "runtime-main.js.map": "/sanmathi-portfolio/static/js/runtime-main.6409a085.js.map",
     "static/css/2.705ea02a.chunk.css": "/sanmathi-portfolio/static/css/2.705ea02a.chunk.css",
@@ -112,7 +112,6 @@
     "static/media/placeholder.3fcbbdcd.png": "/sanmathi-portfolio/static/media/placeholder.3fcbbdcd.png",
     "static/media/postgresql.c0d71b7c.svg": "/sanmathi-portfolio/static/media/postgresql.c0d71b7c.svg",
     "static/media/premierepro.ee38e1aa.svg": "/sanmathi-portfolio/static/media/premierepro.ee38e1aa.svg",
-    "static/media/profile.d3bdc548.jpeg": "/sanmathi-portfolio/static/media/profile.d3bdc548.jpeg",
     "static/media/purpleTheme-boy.d30fe951.svg": "/sanmathi-portfolio/static/media/purpleTheme-boy.d30fe951.svg",
     "static/media/purpleTheme-girl.56852c94.svg": "/sanmathi-portfolio/static/media/purpleTheme-girl.56852c94.svg",
     "static/media/python.cf32ad96.svg": "/sanmathi-portfolio/static/media/python.cf32ad96.svg",
@@ -121,7 +120,7 @@
     "static/media/redTheme-boy.846d9d39.svg": "/sanmathi-portfolio/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/sanmathi-portfolio/static/media/redTheme-girl.1ebbd52c.svg",
     "static/media/ruby.34e792ab.svg": "/sanmathi-portfolio/static/media/ruby.34e792ab.svg",
-    "static/media/san resume.13b29706.pdf": "/sanmathi-portfolio/static/media/san resume.13b29706.pdf",
+    "static/media/san resume.512c346d.pdf": "/sanmathi-portfolio/static/media/san resume.512c346d.pdf",
     "static/media/selenium.7dcf1c14.svg": "/sanmathi-portfolio/static/media/selenium.7dcf1c14.svg",
     "static/media/sketch.87c83552.svg": "/sanmathi-portfolio/static/media/sketch.87c83552.svg",
     "static/media/slick-theme.css": "/sanmathi-portfolio/static/media/slick.c94f7671.ttf",
@@ -148,6 +147,6 @@
     "static/css/2.705ea02a.chunk.css",
     "static/js/2.f59c16aa.chunk.js",
     "static/css/main.d9ee24a5.chunk.css",
-    "static/js/main.c1d6de5e.chunk.js"
+    "static/js/main.a424ae39.chunk.js"
   ]
 }
